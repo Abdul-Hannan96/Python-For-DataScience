@@ -1,1 +1,1 @@
-This folder consists of all content related to python data types
+This folder consists of all content related to python data types.
